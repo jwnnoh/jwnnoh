@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwnnoh)](https://github.com/jwnnoh/)
-[![Solved.ac
+<div align="center">
+  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shwjddhks)](https://solved.ac/shwjddhks)
+</div>
 
 
 
