@@ -23,7 +23,8 @@
 ## 🤝 Projects
 - 가천대학교 교내 아카이빙 플랫폼 [WeNeed](https://github.com/Leets-Official/WeNeed-BE)
 - 가천대학교 가을 축제 원격 웨이팅 서비스 [LUPG](https://github.com/gachon-table)
+- 가천대학교 온라인 서명 서비스 [가천의 봄](https://gcuvoice.site)
 
 ## 📚 Networking
 - `MilesCon` 주관 및 사회 [MilesCon](https://festa.io/events/6120)
-- `남궁성(자바의 정석 저자)의 취업 콘서트` 주관
+- `남궁성(자바의 정석 저자)의 취업 콘서트` 주관 [남궁성의 취업 세미나](https://festa.io/events/m9mSWmdckP416ZU8FJzPUU)
