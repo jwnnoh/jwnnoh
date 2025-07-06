@@ -6,15 +6,17 @@
 
 ## Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Frameworks | Libraries
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ## 💻 Experiences
+- **AI 초개인화 북 큐레이션 플랫폼 [topa](https://topa.page)** `Co-CEO`
 - **가천대학교 IT 학술동아리 [Leets](https://leets.land) `리드`** (2024.07 ~ )
 - 가천대학교 IT 학술동아리 Leets `서버` (2023.03 ~ 2024.07)
 - GDSC Gachon 23-24 `백엔드` (2023.09 ~ 2024.08)
