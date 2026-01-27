@@ -16,7 +16,6 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ## 💻 Experiences
-- **주식회사 제타스코프** `공동대표` (2025.07 ~ )
 - **가천대학교 IT 학술동아리 [Leets](https://leets.land) `리드`** (2024.07 ~ 2026.02)
 - 가천대학교 IT 학술동아리 Leets `서버` (2023.03 ~ 2024.07)
 - GDSC Gachon 23-24 `백엔드` (2023.09 ~ 2024.08)
@@ -25,9 +24,9 @@
 ## 🤝 Projects
 - 가천대학교 교내 아카이빙 플랫폼 [WeNeed](https://github.com/Leets-Official/WeNeed-BE) `서버`
 - 가천대학교 가을 축제 원격 웨이팅 서비스 [LUPG](https://github.com/gachon-table) `Lead`, `서버`
-- 심리 테라피 솔루션 [그린메이트](https://greenmate.ai) `LLM`  [iOS](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%B0%EB%A9%94%EC%9D%B4%ED%8A%B8-%EB%82%98%EC%9D%98-ai-%EC%B9%9C%EA%B5%AC-%EC%9D%B5%EB%AA%85-%EC%B1%84%ED%8C%85-%EA%B3%A0%EB%AF%BC-%EC%83%81%EB%8B%B4-%EB%8C%80%ED%99%94/id6677031205) | [Android](https://play.google.com/store/apps/details?id=ai.greenmate)
+- 심리 테라피 솔루션 [그린메이트](https://greenmate.ai) `AI`  [iOS](https://apps.apple.com/kr/app/%EA%B7%B8%EB%A6%B0%EB%A9%94%EC%9D%B4%ED%8A%B8-%EB%82%98%EC%9D%98-ai-%EC%B9%9C%EA%B5%AC-%EC%9D%B5%EB%AA%85-%EC%B1%84%ED%8C%85-%EA%B3%A0%EB%AF%BC-%EC%83%81%EB%8B%B4-%EB%8C%80%ED%99%94/id6677031205) | [Android](https://play.google.com/store/apps/details?id=ai.greenmate)
 - 온라인 초대장 서비스 [YES!](https://github.com/Leets-Official/Yes-BE) `서버`
-- **논술 전문 학습 플랫폼 [논술메이트](https://www.nonsoolmate.com)** `Lead`, `서버`
+- **논술 전문 학습 플랫폼 [논술메이트](https://www.nonsoolmate.com)** `서버`
 - **AI 초개인화 북 큐레이션 플랫폼 [토파페이지](https://topa.page)** `AI`, `서버`
 
 ## 📚 Networking
