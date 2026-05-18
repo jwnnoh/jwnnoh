@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!%20&fontSize=90" />
 
-## 안녕하세요, 개발자 노정완입니다.☺️
+## 안녕하세요, 노정완입니다.☺️
 - 일상의 불편함을 기술적으로 해결하려고 노력합니다.
 - 논리적인 접근을 통해 문제를 파악하고 해결하는 것을 지향합니다.
 
