@@ -16,7 +16,8 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ## 💻 Experiences
-- Channel Corp. `Sales Development Representative` (26.06 ~ ) [Intern]
+- Channel Corp. `Sales Development Representative` (26.09 ~ ) [Full-time]
+- Channel Corp. `Sales Development Representative` (26.06 ~ 26.08) [Intern]
 - **가천대학교 IT 학술동아리 [Leets](https://leets.land) `리드`** (2024.07 ~ 2026.02)
 - 가천대학교 IT 학술동아리 Leets `서버` (2023.03 ~ 2024.07)
 - GDSC Gachon 23-24 `백엔드` (2023.09 ~ 2024.08)
