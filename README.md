@@ -40,6 +40,12 @@
 | **[논술메이트](https://www.nonsoolmate.com)** | 논술 전문 학습 플랫폼 | `서버` |
 | **[토파페이지](https://topa.page)** | AI 초개인화 북 큐레이션 플랫폼 | `AI`, `서버` |
 
+## 🌐 Open Source
+
+| 프로젝트 | 기여 내용 | PR |
+| --- | --- | --- |
+| [GritQL](https://github.com/biomejs/gritql) | Python 설치 스크립트에서 macOS용 바이너리 다운로드 URL 수정 | [#516](https://github.com/biomejs/gritql/pull/516) |
+
 ## 📚 Networking
 
 | 행사 | 역할 |
